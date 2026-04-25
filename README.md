@@ -54,3 +54,5 @@ This application was bootstrapped with [Express Application Generator](https://e
 
 ## Supplemental Blog Post
 Here is a blog post I created that explains the setup and testing in further detail: https://taylor.callsen.me/testing-node-js-integrations-with-jest/
+
+## Projeto de CI/CD - Juliano
