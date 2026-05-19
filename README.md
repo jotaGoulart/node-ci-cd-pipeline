@@ -1,3 +1,9 @@
+# node-ci-cd-pipeline
+
+[![CI/CD Pipeline](https://github.com/jotaGoulart/node-ci-cd-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/jotaGoulart/node-ci-cd-pipeline/actions/workflows/ci.yml)
+
+Pipeline CI/CD desenvolvida como parte da trilha de infraestrutura da Comp Júnior — 2026.1
+
 # How to Test Node.js Integrations with Jest
 
 This repo provides a sample Node.js REST API that makes calls out to an external GraphQL endpoint and returns the Graph data to the user. 
