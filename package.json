@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "start": "node ./bin/www.js",
-    "test": "jest"
+    "test": "jest --coverage --coverageReporters=lcov"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
