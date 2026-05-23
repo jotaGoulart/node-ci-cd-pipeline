@@ -2,6 +2,8 @@
 
 [![CI/CD Pipeline](https://github.com/jotaGoulart/node-ci-cd-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/jotaGoulart/node-ci-cd-pipeline/actions/workflows/ci.yml)
 
+[Relatório final do projeto](docs/relatorio_final_infra.md)
+
 Pipeline CI/CD desenvolvida como parte da trilha de infraestrutura da Comp Júnior — 2026.1
 
 # How to Test Node.js Integrations with Jest
